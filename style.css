@@ -1,0 +1,107 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color:'white'
+}
+
+canvas {
+  display: block;
+  margin: auto; 
+  padding-top: 10px;
+}
+
+h1 {
+  color: 'black';
+  font-size: xxx-large;
+  margin: auto;
+  text-align: Center;
+  padding-bottom: 1px;
+}
+
+
+h2 {
+  color: black;
+  font-size: large;
+  margin: auto;
+  text-align: center;  
+  padding-bottom: 10 px; 
+  
+}
+
+
+p {
+  color: black;
+  font-size: medium;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 20 px;  
+}
+
+p2 {
+  color: black;
+  font-size: medium;
+  margin: auto;
+  text-align: Center;
+  font-weight: bold;
+  padding-bottom: 20px;   
+}  
+
+#pad{
+  padding-bottom: 10px;  
+}
+
+#scrunch{
+  max-width: 600px;
+  margin: auto;
+  padding-bottom: 10px; 
+}
+
+button {
+  background-color: black;
+  color: #F6F8E3ff;
+}
+
+
+#button-holder {
+  color: blue;
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  margin: auto;
+  justify-content: center;
+}
+
+#button-holder2 {
+
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  margin: auto;
+  justify-content: center;
+}
+
+
+.banner {
+  padding: 5px;
+  letter-spacing: 2px;
+  font-size: 100%;
+  text-align: CENTER;
+  margin: auto;
+  background-color: white;
+}
+
+#info1 {
+  height: auto;
+  margin-top: 5px;
+  color: black;
+  padding-bottom: 0px;
+}
+
+
+#info2 {
+  height: auto;
+  margin-top: 20px;
+  background-color: white;
+  color: black
+}
